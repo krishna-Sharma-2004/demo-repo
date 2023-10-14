@@ -1,3 +1,3 @@
 # Demo
 
-Some Descirption
+Some Description
